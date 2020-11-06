@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "luckyloot",
-  "version": "${version}",
+  "version": "1.0.0",
 
   "name": "LuckyLoot",
   "description": "You never know what it'll drop!",
@@ -14,7 +14,7 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/luckyloot/icon.png",
 
   "environment": "*",
   "entrypoints": {
